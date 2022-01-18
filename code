@@ -1,0 +1,41 @@
+{
+  "squadName" : "Best Marvel Heroes",
+  "homeTown" : "Metro City",
+  "formed" : 2016,
+  "secretBase" : "Super Tenayan",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "Iron Man",
+      "age" : 29,
+      "secretIdentity" : "Tony Stark",
+      "powers" : [
+        "Radiation resistance",
+        "Tiene armadura",
+        "Es potente xd"
+      ]
+    },
+    {
+      "name" : "Don Juan",
+      "age" : 39,
+      "secretIdentity" : "Juanas Jameson",
+      "powers" : [
+        "Conquista a todas",
+        "Resiste a el encanto",
+        "Tiene reflejos de superman "
+      ]
+    },
+    {
+      "name" : "Smirnoff",
+      "age" : 1000000,
+      "secretIdentity" : "Unknown",
+      "powers" : [
+        "Immortalidad",
+        "Inmunidad al fuego",
+        "Es una bestia parda",
+        "Puede teletransportarse",
+        "Viaja por tu estomago"
+      ]
+    }
+  ]
+}
